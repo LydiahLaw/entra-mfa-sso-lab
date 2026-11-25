@@ -61,5 +61,4 @@ Stored in `screenshots/`, with identifiers blurred:
 
 ## Open items
 
-- Add a SAML vs OIDC comparison section.
 - Test Conditional Access if a P1 or P2 license becomes available.
